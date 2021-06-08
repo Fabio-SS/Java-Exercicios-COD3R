@@ -1,4 +1,4 @@
-package exerciciosEnviarparaRepositorio;
+package javaDesafiosExercicios;
 
 public class DesafioFor {
 

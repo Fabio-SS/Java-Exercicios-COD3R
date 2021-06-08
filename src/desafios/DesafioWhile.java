@@ -6,7 +6,7 @@
 	 * Sinal para sair do programa -1
 	 */
 
-package exerciciosEnviarparaRepositorio;
+package javaDesafiosExercicios;
 
 import java.util.Scanner;
 
